@@ -66,6 +66,23 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>🗺️ GeoBox</h4>
+      Digitalização da verificação de caixas ópticas (FTTH), com perfis de acesso, trilha de auditoria e integração com ERP e plataforma de georreferenciamento.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>✅ Validus</h4>
+      Validação automática de processos de faturamento, com regras que substituem conferências manuais da equipe financeira.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automação-1f2328?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🦺 SafeField</h4>
       Gestão de segurança do trabalho para provedores, integrada à API do ERP.
       <br/><br/>
@@ -87,7 +104,7 @@
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mr-iagow&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mr-iagow&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br&hide_rank=true&hide=prs,issues,contribs" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-iagow&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
